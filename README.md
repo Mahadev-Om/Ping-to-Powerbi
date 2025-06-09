@@ -1,18 +1,17 @@
-# Tweetbeats
-Built a full-scale behavioral analytics engine using tweet metadata to reveal when, where, and how users engage. This project showcases advanced EDA, time slicing, geovisualization, and interaction pattern modeling—laying the groundwork for recommender systems, virality prediction, and campaign optimization.
+# Ping-to-Powerbi
+# API to Insight – Real-Time Dashboard from REST Data
 
-This project extracts deep behavioral and temporal trends from a Twitter dataset using advanced EDA techniques. Designed to uncover the hidden rhythms of social interaction.
+This Power BI project connects to a REST API, ingests JSON data, and transforms it into dynamic, filterable business dashboards. Ideal for real-time reporting and executive decision-making.
 
 ## Highlights
-- Engineered features from timestamps for temporal pattern mining
-- Computed like/retweet intensity per user to gauge engagement
-- Modeled hourly/daily tweet behavior and geo-distribution
+- Live API integration with parameterized queries
+- Data transformation using Power Query
+- Dynamic visuals: KPIs, trendlines, article summaries, thumbnails
+- Real-time news sentiment tracking (if Alphavantage used)
 
-## Tech Stack
-`Pandas`, `Matplotlib`, `Python`, `Social Media Dataset`, `Datetime Analysis`, `Frequency Modeling`
+## Tools Used
+`Power BI`, `Power Query`, `REST API`, `JSON`, `DAX`
 
-## Business Use Cases
-- Audience segmentation
-- Peak activity time targeting
-- Geo-specific social campaign planning
-
+## Value Delivered
+- Delivered a no-code/low-code solution for live data dashboards
+- Enabled stakeholders to monitor external data feeds in real time
